@@ -1,0 +1,15 @@
+Name:                     |           Kashif
+Father Name:              |           Amin
+Date Of Birth:            |           null
+Domicile:                 |           swabi
+Religion:                 |           null
+Present Address:          |           Swabi
+Permanent Address:        |           Swabi
+Email:                    |           kashif42051@gmail.com
+Phone:                    |           32323232
+Qualification:            |           BSCS
+FSC Marks:                |           23232
+College:                  |           Swabi
+Obtained Marks:           |           3223
+Total Marks:              |           323
+Percentage:               |           3223
